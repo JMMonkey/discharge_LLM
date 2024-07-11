@@ -1,1 +1,1 @@
-# discharge_LLM
+# 书生大模型实战挑战
