@@ -41,4 +41,6 @@ print(wordcount(texts))
 ![运行结果](https://github.com/JMMonkey/discharge_LLM/blob/56833ea95b9204fc1fbe0b80d96ebf16e1049099/task/python/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 ##### 任务二：使用本地vscode连接远程开发机，在开发机进行debug。
+使用正则表达式\[\w'\] 将it's也定为一个单词进行计数。
+![debug](https://github.com/JMMonkey/discharge_LLM/blob/806f0fe06eb872e8a71dcef3bdc4a241196bff8a/task/python/debug.png)
 
